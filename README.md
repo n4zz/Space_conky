@@ -20,5 +20,16 @@ If I want frames at night, I just need to turn off the night light. :D
 
 For more my conky.config for x11 go to: [Codehack.cz](https://codehack.cz/conky.html#gsc.tab=0)     
 Conky project [Homepage](https://github.com/brndnmtthws/conky/wiki)       
-     
-<img src="/space/pictures/spy_ntb_final.png" alt="Screenshot_Space_conky_for_laptop" width="600">
+
+----      
+      
+<img src="/space/pictures/spy_ntb_final.png" alt="Screenshot_Space_conky_for_laptop" width="600">      
+
+
+With night lighting      
+
+<img src="/space/pictures/Kwin_nightvision.png" alt="Screenshot_Space_conky_for_laptop" width="600">      
+
+Battery status      
+
+<img src="/space/pictures/battery_status.png" alt="Screenshot_Space_conky_battery_status" width="600">  
