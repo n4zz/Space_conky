@@ -1,0 +1,5 @@
+connect ON-LINE
+firewall inactive
+firewall enable
+ssh inactive
+ssh disable
